@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Android , python ,java**
 
-- 💬 Ask me about **JavaScript HTML, CSS Java,**
+- 💬 Ask me about **jira, JavaScript HTML, CSS Java,**
 
-- 📫 How to reach me **thisaraneethulani@gmali.com**
+- 📫 How to reach me **thulani0420@gmali.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
