@@ -1,4 +1,4 @@
-![MasterHead align="center"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7144Q8rqJcMUwXxfTOEJJNF8hdKynYMFOw&s)
+![MasterHead align="center"]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7144Q8rqJcMUwXxfTOEJJNF8hdKynYMFOw&s](https://www.dreamstime.com/photos-images/quality-assurance.html))
 
 <h1 align="center">Hi 👋, I'm Thulani Thisarani</h1>
 
